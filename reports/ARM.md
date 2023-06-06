@@ -13,16 +13,28 @@
  - Реализовать добавление должностей, вакансий и сотрудников так, чтобы параметры должности ограничивали параметры вакансии, а параметры вакансии ограничивали вводимые данные при отклике на неё.
 ## Работа программы
 Рис. 1 - главное окно
+
 ![Рис. 1 - главное окно](https://github.com/kirpilya/CreativeWork/blob/main/reports/img/1.png)
+
 Рис. 2 - добавление должности
+
 ![](https://github.com/kirpilya/CreativeWork/blob/main/reports/img/2.png)
+
 Рис. 3 - добавление вакансии
+
 ![](https://github.com/kirpilya/CreativeWork/blob/main/reports/img/3.png)
+
 Рис. 4 - отклик на вакансию
+
 ![](https://github.com/kirpilya/CreativeWork/blob/main/reports/img/4.png)
+
 Рис. 5 - просмотр информации о сотруднике
+
 ![](https://github.com/kirpilya/CreativeWork/blob/main/reports/img/5.png)
+
 ## Диаграмма классов
+
 ![](https://github.com/kirpilya/CreativeWork/blob/main/reports/img/6.png)
+
 ## Исходный код
 Исходный код представлен в репозитории: https://github.com/kirpilya/CreativeWork/tree/main/ARM
